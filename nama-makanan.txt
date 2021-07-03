@@ -2,4 +2,8 @@ nama makanan
 - nasi goreng
 - mi goreng
 - bakso
+  ^ bakso tusuk
 - nasi pecel
+- rujak
+  ^ rujak buah
+  ^ rujak sayur
