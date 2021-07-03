@@ -2,4 +2,8 @@ nama makanan
 - nasi goreng
 - mi goreng
 - bakso
+  ^ bakso kuah
+  ^ bakso goreng
 - nasi pecel
+  ^ nasi pecel kediri
+  ^ nasi pecel madiun
